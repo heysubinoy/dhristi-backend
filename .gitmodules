@@ -1,0 +1,9 @@
+[submodule "dhristi-transcoding"]
+	path = dhristi-transcoding
+	url = https://github.com/subinoybiswas/dhristi-transcoding.git
+[submodule "dhristi-endpoint-service"]
+	path = dhristi-endpoint-service
+	url = https://github.com/subinoybiswas/dhristi-endpoint-service.git
+[submodule "dhristi-ingress"]
+	path = dhristi-ingress
+	url = https://github.com/subinoybiswas/dhristi-ingress.git
